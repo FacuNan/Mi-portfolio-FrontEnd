@@ -1,0 +1,194 @@
+body{
+    background-color: red;
+}
+header{
+    background-color:
+    brown;
+    height: 610px;
+    position: relative;
+    border: 5px yellow solid;
+}
+
+#portada{
+    background-color: green;
+ 
+   
+}
+
+img{
+    height:450px;
+    width:100%;
+    padding: 0px 0px;
+    margin:0px 0px;
+}
+
+#fotodeperfil{
+background-color:aquamarine;
+z-index:1;
+position:absolute;
+border-radius: 50%;
+    width:19%;
+    height:25%;
+    top:60%;
+    margin-left:15px;
+
+}
+#imgPerfil{
+    position:absolute;
+    border-radius:50%;
+    width:100%;
+    height:100%
+    
+}
+
+#acercade{
+    position:
+    absolute;
+    right:0px;
+    margin:20px;
+    height: 20%;
+    padding: 0px;
+}
+#acercade h1{
+    margin:0px
+}
+#info{
+ 
+    position:absolute;
+    bottom: 0%;
+    padding:0px;
+    
+}
+button{
+    position:absolute;
+    right:5px;
+    bottom:0%;
+    
+}
+
+main{
+    background-color:blue;
+
+    position:relative;
+    height: 400px;
+}
+#contenidoExperiencia{
+    background-color:green;
+    position:absolute;
+    width:100%;
+    height:100%;
+    padding:20px;
+
+}
+
+#imgExperiencia{
+    position:absolute;
+    height:50%;
+    width:20%;
+    height: 30%;
+}
+
+#infoExperiencia{
+    border: 5px yellow solid;
+    position:absolute;
+    right: 20px;
+    top:20px
+}
+
+#infoExperiencia h1{
+   text-align:center;
+}
+
+
+header{
+background-color: #BBB;
+    height: 610px;
+    position: relative;
+    border: 3px black solid;
+}
+
+
+img{
+    height:450px;
+    width:100%;
+    padding: 0px 0px;
+    margin:0px 0px;
+}
+
+#fotodeperfil{
+
+z-index:1;
+position:absolute;
+border-radius: 50%;
+    width:19%;
+    height:25%;
+    top:60%;
+    margin-left:15px;
+
+}
+#imgPerfil{
+    position:absolute;
+    border-radius:50%;
+    width:100%;
+    height:100%
+    
+}
+
+#acercade{
+    position:
+    absolute;
+  
+    right:0px;
+    margin:20px;
+    height: 20%;
+    padding: 0px;
+}
+#acercade h1{
+    margin:0px
+}
+#info{
+   
+    position:absolute;
+    bottom: 0%;
+    padding:0px;
+    
+}
+button{
+    position:absolute;
+    right:5px;
+    bottom:0%;
+    
+}
+
+main{
+   background-color:blue;
+
+    position:relative;
+    height: 200px;
+}
+#contenidoExperiencia{
+    background-color:green;
+    position:absolute;
+    width:100%;
+    height:100%;
+    padding:20px;
+
+}
+
+#imgExperiencia{
+    position:absolute;
+    height:50%;
+    width:20%;
+    height: 50%;
+}
+
+#infoExperiencia{
+    border: 5px yellow solid;
+    position:absolute;
+    right: 20px;
+    top:20px;
+}
+
+#infoExperiencia h1{
+   text-align:center;
+}
